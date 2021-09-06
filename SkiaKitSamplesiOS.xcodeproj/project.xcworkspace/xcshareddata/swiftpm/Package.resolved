@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SkiaKit",
+        "repositoryURL": "https://github.com/bloomos/SkiaKit.git",
+        "state": {
+          "branch": "generated",
+          "revision": "e99d016eca7cf401b4e2c96d9d9a0146ef367588",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
